@@ -1,6 +1,6 @@
 # 🍽 Zomato Bangalore Restaurant Analysis
 ## 📂 Repository Structure
-## 📂 Repository Structure
+
 
 | File Name | Description |
 |-----------|-------------|
