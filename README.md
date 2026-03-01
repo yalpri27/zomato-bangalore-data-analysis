@@ -1,12 +1,13 @@
 # 🍽 Zomato Bangalore Restaurant Analysis
 ## 📂 Repository Structure
+## 📂 Repository Structure
 
 | File Name | Description |
 |-----------|-------------|
-| zomato_dataset.csv | Raw dataset used for analysis |
-| zomato_eda.ipynb | Data cleaning & exploratory data analysis |
-| zomato_dashboard.pbix | Interactive Power BI dashboard |
-| dashboard_preview.png | Dashboard screenshot |
+| [zomato_dataset.csv](zomato_data.csv) | Raw dataset used for analysis |
+| [zomato_eda.ipynb](zomato_eda.ipynb) | Data cleaning & exploratory data analysis |
+| [zomato_dashboard.pbix](zomatobanglore.pbix) | Interactive Power BI dashboard |
+| [dashboard_preview.png](Zomato_banglore_dashboard.png) | Dashboard screenshot |
 ## 📌 Project Overview
 This project performs end-to-end data analysis on the Zomato Bangalore dataset to extract business insights around pricing, ratings, and online ordering behavior.
 
